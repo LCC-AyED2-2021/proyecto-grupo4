@@ -48,3 +48,6 @@ def create (path):
 
                     add(list_file,T) #agrega la tabla con las palabras a la LinkedList.
             listOfWords.head= None
+
+
+            print("hols")
